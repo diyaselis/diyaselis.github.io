@@ -3,21 +3,20 @@ layout: page
 title: Publications
 ---
 
-You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=eiqVLC0AAAAJ" target="_blank">Google Scholar profile</a>.
+You can also browse my <a href="https://scholar.google.com/citations?user=8gRM3xMAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 <br />
 
 #### Preprints
-- Qihang Yu, Lingxi Xie, Yan Wang, <b>Yuyin Zhou</b>, Elliot K Fishman, "Recurrent Saliency Transformation Network:
-Incorporating Multi-Stage Visual Cues for Small Organ Segmentation", Arxiv ([PDF](https://arxiv.org/pdf/1709.04518.pdf))
+- Zhishuai Zhang, Siyuan Qiao, <b>Cihang Xie</b>, Wei Shen, Bo Wang, Alan Yuille, "Single-Shot Object Detection with Enriched Semantics", Arxiv ([PDF](https://arxiv.org/pdf/1712.00433.pdf))
+- <b>Cihang Xie</b>, Jianyu Wang, Zhishuai Zhang, Zhou Ren, Alan Yuille, "Mitigating adversarial effects through randomization", Arxiv ([PDF](https://arxiv.org/pdf/1711.01991.pdf))
+- Zhishuai Zhang, <b>Cihang Xie</b>, Jianyu Wang, Lingxi Xie, Alan Yuille, "DeepVoting: An Explainable Framework for Semantic Part Detection under Partial Occlusion", Arxiv ([PDF](https://arxiv.org/pdf/1709.04577.pdf))
+- Jianyu Wang, Zhishuai Zhang, <b>Cihang Xie</b>, Vittal Premachandran, Alan Yuille, "Unsupervised learning of object semantic parts from internal states of CNNs by population encoding", Arxiv ([PDF](https://arxiv.org/pdf/1511.06855.pdf))
 <br /> 
 
 #### Conference papers
-- Cihang Xie\*, Jianyu Wang\*, Zhishuai Zhang\*, **Yuyin Zhou**, Lingxi Xie, Alan Yuille (\*equal contribution), "Adversarial Examples for Semantic Segmentation and Object Detection", International Conference on Computer Vision (ICCV) 2017 ([PDF](https://arxiv.org/pdf/1703.08603.pdf))
-- **Yuyin Zhou**, Lingxi Xie, Wei Shen, Yan Wang, Elliot K Fishman, Alan L Yuille, "A Fixed-Point Model for Pancreas Segmentation in Abdominal CT Scans", International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2017 ([PDF](https://arxiv.org/pdf/1612.08230.pdf))
-- **Yuyin Zhou**, Lingxi Xie, Elliot K Fishman, Alan L Yuille, "Deep Supervision for Pancreatic
-Cyst Segmentation in Abdominal CT Scans", International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2017 ([PDF](https://arxiv.org/pdf/1706.07346.pdf))
+- <b>Cihang Xie</b>, Jianyu Wang, Zhishuai Zhang, Yuyin Zhou, Lingxi Xie, Alan Yuille, "Adversarial Examples for Semantic Segmentation and Object Detection", International Conference on Computer Vision (ICCV) 2017 ([PDF](https://arxiv.org/pdf/1703.08603.pdf))
+- Jianyu Wang, <b>Cihang Xie</b>, Zhishuai Zhang, Jun Zhu, Lingxi Xie, Alan Yuille, "Detecting Semantic Parts on Partially Occluded Objects", British Machine Vision Conference (BMVC) 2017 ([PDF](https://arxiv.org/pdf/1707.07819.pdf))
 <br /> 
 
 #### Journal papers
-- Jianyu Wang, Zhishual Zhang, Cihang Xie, <b>Yuyin Zhou</b>, Vittal Premachandran, Jun Zhu, Lingxi Xie, Alan Yuille, "Visual Concepts and Compositional Voting", Annals of Mathematical Sciences and Applications 2017 ([PDF](https://arxiv.org/pdf/1711.04451.pdf))
-
+- Jianyu Wang, Zhishual Zhang, <b>Cihang Xie</b>, Yuyin Zhou, Vittal Premachandran, Jun Zhu, Lingxi Xie, Alan Yuille, "Visual Concepts and Compositional Voting", Annals of Mathematical Sciences and Applications 2017 ([PDF](https://arxiv.org/pdf/1711.04451.pdf))
