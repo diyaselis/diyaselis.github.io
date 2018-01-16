@@ -10,7 +10,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
 - Zhishuai Zhang, Siyuan Qiao, <b>Cihang Xie</b>, Wei Shen, Bo Wang, Alan Yuille, "Single-Shot Object Detection with Enriched Semantics", Arxiv  
 [[PDF](https://arxiv.org/pdf/1712.00433.pdf)]
 - <b>Cihang Xie</b>, Jianyu Wang, Zhishuai Zhang, Zhou Ren, Alan Yuille, "Mitigating adversarial effects through randomization", Arxiv  
-[[PDF](https://arxiv.org/pdf/1711.01991.pdf)] [[CODE](https://github.com/cihangxie/NIPS2017_adv_challenge_defense)]
+[[PDF](https://arxiv.org/pdf/1711.01991.pdf)] [[CODE](https://github.com/cihangxie/NIPS2017_adv_challenge_defense)] [[SLIDES](Adversarial Examples for Semantic Segmentation and Object Detection.pptx)]
 - Zhishuai Zhang, <b>Cihang Xie</b>, Jianyu Wang, Lingxi Xie, Alan Yuille, "DeepVoting: An Explainable Framework for Semantic Part Detection under Partial Occlusion", Arxiv  
 [[PDF](https://arxiv.org/pdf/1709.04577.pdf)]
 - Jianyu Wang, Zhishuai Zhang, <b>Cihang Xie</b>, Vittal Premachandran, Alan Yuille, "Unsupervised learning of object semantic parts from internal states of CNNs by population encoding", Arxiv  
