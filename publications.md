@@ -9,9 +9,6 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
 #### Preprints
 - Zhishuai Zhang, Siyuan Qiao, <b>Cihang Xie</b>, Wei Shen, Bo Wang, Alan Yuille, "Single-Shot Object Detection with Enriched Semantics", Arxiv  
 [[PDF](https://arxiv.org/pdf/1712.00433.pdf)]
-- <b>Cihang Xie</b>, Jianyu Wang, Zhishuai Zhang, Zhou Ren, Alan Yuille, "Mitigating Adversarial Effects Through Randomization", Arxiv  
-This work ranked <b>No.2</b> in the <a href="https://www.kaggle.com/c/nips-2017-defense-against-adversarial-attack">NIPS 2017 Challenge: Defense against Adversarial Attack</a>  
-[[PDF](https://arxiv.org/pdf/1711.01991.pdf)] [[CODE](https://github.com/cihangxie/NIPS2017_adv_challenge_defense)] [[SLIDES](https://github.com/cihangxie/cihangxie.github.io/blob/master/NIPS_ADV.pdf)]
 - Zhishuai Zhang, <b>Cihang Xie</b>, Jianyu Wang, Lingxi Xie, Alan Yuille, "DeepVoting: An Explainable Framework for Semantic Part Detection under Partial Occlusion", Arxiv  
 [[PDF](https://arxiv.org/pdf/1709.04577.pdf)]
 - Jianyu Wang, Zhishuai Zhang, <b>Cihang Xie</b>, Vittal Premachandran, Alan Yuille, "Unsupervised learning of object semantic parts from internal states of CNNs by population encoding", Arxiv  
@@ -19,6 +16,9 @@ This work ranked <b>No.2</b> in the <a href="https://www.kaggle.com/c/nips-2017-
 <br /> 
 
 #### Conference papers
+- <b>Cihang Xie</b>, Jianyu Wang, Zhishuai Zhang, Zhou Ren, Alan Yuille, "Mitigating Adversarial Effects Through Randomization", International Conference on Learning Representations (ICLR) 2018  
+This work ranked <b>No.2</b> in the <a href="https://www.kaggle.com/c/nips-2017-defense-against-adversarial-attack">NIPS 2017 Challenge: Defense against Adversarial Attack</a>  
+[[PDF](https://arxiv.org/pdf/1711.01991.pdf)] [[CODE](https://github.com/cihangxie/NIPS2017_adv_challenge_defense)] [[SLIDES](https://github.com/cihangxie/cihangxie.github.io/blob/master/NIPS_ADV.pdf)]
 - <b>Cihang Xie</b>, Jianyu Wang, Zhishuai Zhang, Yuyin Zhou, Lingxi Xie, Alan Yuille, "Adversarial Examples for Semantic Segmentation and Object Detection", International Conference on Computer Vision (ICCV) 2017  
 [[PDF](https://arxiv.org/pdf/1703.08603.pdf)] [[CODE](https://github.com/cihangxie/DAG)] [[SLIDES](https://github.com/cihangxie/cihangxie.github.io/blob/master/DAG.pdf)]
 - Jianyu Wang, <b>Cihang Xie</b>, Zhishuai Zhang, Jun Zhu, Lingxi Xie, Alan Yuille, "Detecting Semantic Parts on Partially Occluded Objects", British Machine Vision Conference (BMVC) 2017  
