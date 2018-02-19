@@ -12,9 +12,9 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
 <br /> 
 
 #### Conference papers
-- Zhishuai Zhang, Siyuan Qiao, <b>Cihang Xie</b>, Wei Shen, Bo Wang, Alan Yuille, "Single-Shot Object Detection with Enriched Semantics", Computer Vision and Pattern Recognition (CVPR) 2018
+- Zhishuai Zhang, Siyuan Qiao, <b>Cihang Xie</b>, Wei Shen, Bo Wang, Alan Yuille, "Single-Shot Object Detection with Enriched Semantics", Computer Vision and Pattern Recognition (CVPR) 2018  
 [[PDF](https://arxiv.org/pdf/1712.00433.pdf)]
-- Zhishuai Zhang, <b>Cihang Xie</b>, Jianyu Wang, Lingxi Xie, Alan Yuille, "DeepVoting: An Explainable Framework for Semantic Part Detection under Partial Occlusion", Computer Vision and Pattern Recognition (CVPR) 2018
+- Zhishuai Zhang, <b>Cihang Xie</b>, Jianyu Wang, Lingxi Xie, Alan Yuille, "DeepVoting: An Explainable Framework for Semantic Part Detection under Partial Occlusion", Computer Vision and Pattern Recognition (CVPR) 2018  
 [[PDF](https://arxiv.org/pdf/1709.04577.pdf)]
 - <b>Cihang Xie</b>, Jianyu Wang, Zhishuai Zhang, Zhou Ren, Alan Yuille, "Mitigating Adversarial Effects Through Randomization", International Conference on Learning Representations (ICLR) 2018  
 This work ranked <b>No.2</b> in the <a href="https://www.kaggle.com/c/nips-2017-defense-against-adversarial-attack">NIPS 2017 Challenge: Defense against Adversarial Attack</a>  
