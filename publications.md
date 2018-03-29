@@ -28,5 +28,5 @@ This work ranked <b>No.2</b> in the <a href="https://www.kaggle.com/c/nips-2017-
 <br /> 
 
 #### Journal papers
-- Jianyu Wang, Zhishual Zhang, <b>Cihang Xie</b>, Yuyin Zhou, Vittal Premachandran, Jun Zhu, Lingxi Xie, Alan Yuille, "Visual Concepts and Compositional Voting", Annals of Mathematical Sciences and Applications 2017  
+- Jianyu Wang, Zhishual Zhang, <b>Cihang Xie</b>, Yuyin Zhou, Vittal Premachandran, Jun Zhu, Lingxi Xie, Alan Yuille, "Visual Concepts and Compositional Voting", Annals of Mathematical Sciences and Applications 2018  
 [[PDF](https://arxiv.org/pdf/1711.04451.pdf)]
