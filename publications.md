@@ -7,7 +7,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
 <br />
 
 #### Preprints
-- <b>Cihang Xie</b>, Zhishuai Zhang, Jianyu Wang, Yuyin Zhou, Zhou Ren, Alan Yuille, "Improving Transferability of Adversarial Examples with Input Diversity", Arxiv 
+- <b>Cihang Xie</b>, Zhishuai Zhang, Jianyu Wang, Yuyin Zhou, Zhou Ren, Alan Yuille, "Improving Transferability of Adversarial Examples with Input Diversity", Arxiv  
 [[PDF](https://arxiv.org/pdf/1803.06978.pdf)] [[CODE](https://github.com/cihangxie/DI-2-FGSM)] 
 - Jianyu Wang, Zhishuai Zhang, <b>Cihang Xie</b>, Vittal Premachandran, Alan Yuille, "Unsupervised learning of object semantic parts from internal states of CNNs by population encoding", Arxiv  
 [[PDF](https://arxiv.org/pdf/1511.06855.pdf)]
