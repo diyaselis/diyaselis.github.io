@@ -14,7 +14,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
 - Nicolas Papernot, Fartash Faghri, Nicholas Carlini, Ian Goodfellow, Reuben Feinman, Alexey Kurakin, <b>Cihang Xie</b>, Yash Sharma, Tom Brown, Aurko Roy, Alexander Matyasko, Vahid Behzadan, Karen Hambardzumyan, Zhishuai Zhang, Yi-Lin Juang, Zhi Li, Ryan Sheatsley, Abhibhav Garg, Jonathan Uesato, Willi Gierke, Yinpeng Dong, David Berthelot, Paul Hendricks, Jonas Rauber, Rujun Long, Patrick McDaniel, "Technical Report on the CleverHans v2.1.0 Adversarial Examples Library", Arxiv  
 [[PDF](https://arxiv.org/pdf/1610.00768.pdf)] [[CODE](https://github.com/tensorflow/cleverhans)] 
 - Alexey Kurakin, Ian Goodfellow, Samy Bengio, Yinpeng Dong, Fangzhou Liao, Ming Liang, Tianyu Pang, Jun Zhu, Xiaolin Hu, <b>Cihang Xie</b>, Jianyu Wang, Zhishuai Zhang, Zhou Ren, Alan Yuille, Sangxia Huang, Yao Zhao, Yuzhe Zhao, Zhonglin Han, Junjiajia Long, Yerkebulan Berdibekov, Takuya Akiba, Seiya Tokui, Motoki Abe, "Adversarial Attacks and Defences Competition", Arxiv  
-[[PDF](https://arxiv.org/pdf/1804.00097.pdf)] [[WEB](https://www.kaggle.com/c/nips-2017-defense-against-adversarial-attack)] 
+[[PDF](https://arxiv.org/pdf/1804.00097.pdf)] [[WEBSITE](https://www.kaggle.com/c/nips-2017-defense-against-adversarial-attack)] 
 - <b>Cihang Xie</b>, Zhishuai Zhang, Jianyu Wang, Yuyin Zhou, Zhou Ren, Alan Yuille, "Improving Transferability of Adversarial Examples with Input Diversity", Arxiv  
 [[PDF](https://arxiv.org/pdf/1803.06978.pdf)] [[CODE](https://github.com/cihangxie/DI-2-FGSM)] 
 - Jianyu Wang, Zhishuai Zhang, <b>Cihang Xie</b>, Vittal Premachandran, Alan Yuille, "Unsupervised learning of object semantic parts from internal states of CNNs by population encoding", Arxiv  
