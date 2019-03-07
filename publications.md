@@ -26,7 +26,7 @@ This work ranked <b>No.1</b> in the adversarial defense track of <a href="http:/
 - Zhishuai Zhang, <b>Cihang Xie</b>, Jianyu Wang, Lingxi Xie, Alan Yuille, "DeepVoting: An Explainable Framework for Semantic Part Detection under Partial Occlusion", Computer Vision and Pattern Recognition (CVPR) 2018  
 [[PDF](https://arxiv.org/pdf/1709.04577.pdf)]
 - <b>Cihang Xie</b>, Jianyu Wang, Zhishuai Zhang, Zhou Ren, Alan Yuille, "Mitigating Adversarial Effects Through Randomization", International Conference on Learning Representations (ICLR) 2018  
-This work ranked <b>No.2</b> in the <a href="https://www.kaggle.com/c/nips-2017-defense-against-adversarial-attack">NIPS 2017 Challenge: Defense against Adversarial Attack</a>  
+This work ranked <b>No.2</b> in the adversarial defense track of <a href="https://www.kaggle.com/c/nips-2017-defense-against-adversarial-attack">NIPS 2017 Challenge</a>  
 [[PDF](https://arxiv.org/pdf/1711.01991.pdf)] [[CODE](https://github.com/cihangxie/NIPS2017_adv_challenge_defense)] [[SLIDES](https://github.com/cihangxie/cihangxie.github.io/blob/master/NIPS_ADV.pdf)]
 - <b>Cihang Xie</b>, Jianyu Wang, Zhishuai Zhang, Yuyin Zhou, Lingxi Xie, Alan Yuille, "Adversarial Examples for Semantic Segmentation and Object Detection", International Conference on Computer Vision (ICCV) 2017  
 [[PDF](https://arxiv.org/pdf/1703.08603.pdf)] [[CODE](https://github.com/cihangxie/DAG)] [[SLIDES](https://github.com/cihangxie/cihangxie.github.io/blob/master/DAG.pdf)]
