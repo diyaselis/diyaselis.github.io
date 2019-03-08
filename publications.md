@@ -19,7 +19,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
 - <b>Cihang Xie</b>, Yuxin Wu, Laurens van der Maaten, Alan Yuille, Kaiming He, "Feature Denoising for Improving Adversarial Robustness", Computer Vision and Pattern Recognition (CVPR) 2019  
 This work ranked <b>No.1</b> in the adversarial defense track of <a href="http://hof.geekpwn.org/caad/en/index.html">CAAD 2018 Challenge</a>  
 [[PDF](https://arxiv.org/pdf/1812.03411.pdf)] [[CODE](https://github.com/facebookresearch/ImageNet-Adversarial-Training)] 
-- <b>Cihang Xie</b>, Zhishuai Zhang, Zhou Yuyin, Song Bai, Jianyu Wang, Zhou Ren, Alan Yuille, "Improving Transferability of Adversarial Examples with Input Diversity", Computer Vision and Pattern Recognition (CVPR) 2019  
+- <b>Cihang Xie</b>, Zhishuai Zhang, Yuyin Zhou, Song Bai, Jianyu Wang, Zhou Ren, Alan Yuille, "Improving Transferability of Adversarial Examples with Input Diversity", Computer Vision and Pattern Recognition (CVPR) 2019  
 [[PDF](https://arxiv.org/pdf/1803.06978.pdf)] [[CODE](https://github.com/cihangxie/DI-2-FGSM)] 
 - Zhishuai Zhang, Siyuan Qiao, <b>Cihang Xie</b>, Wei Shen, Bo Wang, Alan Yuille, "Single-Shot Object Detection with Enriched Semantics", Computer Vision and Pattern Recognition (CVPR) 2018  
 [[PDF](https://arxiv.org/pdf/1712.00433.pdf)]
