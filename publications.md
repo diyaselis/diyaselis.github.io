@@ -14,7 +14,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
        <p class="media-heading">
           <strong>Regional Homogeneity: Towards Learning Transferable Universal Adversarial Perturbations Against Defenses
 </strong><br />
-          Yingwei Li, Song Bai, <b>Cihang Xie</b>, Zhenyu Liao, Xiaohui Shen, Alan L. Yuille<br />
+          Yingwei Li, Song Bai, <b>Cihang Xie</b>, Zhenyu Liao, Xiaohui Shen, Alan Yuille<br />
           Tech report, arXiv<br />
           <a href="https://arxiv.org/pdf/1904.00979.pdf">[PDF]</a> <a href="https://github.com/LiYingwei/Regional-Homogeneity">[CODE]</a><br />
        </p>
