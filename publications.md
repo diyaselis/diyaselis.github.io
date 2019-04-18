@@ -6,7 +6,9 @@ title: Publications
 You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZPcAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar profile</a>.
 <br />
 
-
+<h3>
+    <a name='2019'></a> 2019
+</h3>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
@@ -31,26 +33,6 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Technical Report on the CleverHans v2.1.0 Adversarial Examples Library</strong><br />
-          Nicolas Papernot, Fartash Faghri, Nicholas Carlini, Ian Goodfellow, Reuben Feinman, Alexey Kurakin, <b>Cihang Xie</b>, Yash Sharma, Tom Brown, Aurko Roy, Alexander Matyasko, Vahid Behzadan, Karen Hambardzumyan, Zhishuai Zhang, Yi-Lin Juang, Zhi Li, Ryan Sheatsley, Abhibhav Garg, Jonathan Uesato, Willi Gierke, Yinpeng Dong, David Berthelot, Paul Hendricks, Jonas Rauber, Rujun Long, Patrick McDaniel<br />
-          Tech report, arXiv<br />
-          <a href="https://arxiv.org/pdf/1610.00768.pdf">[PDF]</a> <a href="https://github.com/tensorflow/cleverhans">[CODE]</a><br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Unsupervised learning of object semantic parts from internal states of CNNs by population encoding</strong><br />
-          Jianyu Wang, Zhishuai Zhang, <b>Cihang Xie</b>, Vittal Premachandran, Alan Yuille<br />
-          Tech report, arXiv<br />
-          <a href="https://arxiv.org/pdf/1511.06855.pdf">[PDF]</a><br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
           <strong>Feature Denoising for Improving Adversarial Robustness</strong><br />
           <b>Cihang Xie</b>, Yuxin Wu, Laurens van der Maaten, Alan Yuille, Kaiming He<br />
           IEEE International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2019<br />
@@ -69,6 +51,9 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
        </p>
     </div>
 </div>
+<h3>
+    <a name='2018'></a> 2018
+</h3>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
@@ -119,7 +104,20 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
           <a href="https://arxiv.org/pdf/1711.04451.pdf">[PDF]</a><br />
        </p>
     </div>
-</div> 
+</div>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Technical Report on the CleverHans v2.1.0 Adversarial Examples Library</strong><br />
+          Nicolas Papernot, Fartash Faghri, Nicholas Carlini, Ian Goodfellow, Reuben Feinman, Alexey Kurakin, <b>Cihang Xie</b>, Yash Sharma, Tom Brown, Aurko Roy, Alexander Matyasko, Vahid Behzadan, Karen Hambardzumyan, Zhishuai Zhang, Yi-Lin Juang, Zhi Li, Ryan Sheatsley, Abhibhav Garg, Jonathan Uesato, Willi Gierke, Yinpeng Dong, David Berthelot, Paul Hendricks, Jonas Rauber, Rujun Long, Patrick McDaniel<br />
+          Tech report, arXiv<br />
+          <a href="https://arxiv.org/pdf/1610.00768.pdf">[PDF]</a> <a href="https://github.com/tensorflow/cleverhans">[CODE]</a><br />
+       </p>
+    </div>
+</div>
+<h3>
+    <a name='2017'></a> 2017
+</h3>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
@@ -140,4 +138,17 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
        </p>
     </div>
 </div> 
+<h3>
+    <a name='2016'></a> 2016
+</h3>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Unsupervised learning of object semantic parts from internal states of CNNs by population encoding</strong><br />
+          Jianyu Wang, Zhishuai Zhang, <b>Cihang Xie</b>, Vittal Premachandran, Alan Yuille<br />
+          Tech report, arXiv<br />
+          <a href="https://arxiv.org/pdf/1511.06855.pdf">[PDF]</a><br />
+       </p>
+    </div>
+</div>
 
