@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://cihangxie.github.io"
+url: "http://diyaselis.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Cihang Xie
+title: Diyaselis Delgado
 
 # Short description of your site
 description: Personal Homepage
@@ -40,9 +40,9 @@ avatar: "/img/cihangxie.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Cihang Xie
-  email: "cihangxie306@gmail.com"
-  github: cihangxie    # eg. daattali
+  name: Diyaselis Delgado 
+  email: "diyaselis.delgado@upr.edu"
+  github: diyaselis    # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
