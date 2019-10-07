@@ -13,7 +13,7 @@ title: Publications
 </strong><br />
           <b>Diyaselis Delgado</b>/>
           Tech Report, Cornell University/>
-          <a href="https://cds.cern.ch/record/2640657/files/On_Demand_Distributed_Computing_Workflow_for_Physics_Analysis_at_the_CMS_Experiment.pdf">[PDF]</a>/>
+          <a "Cornell_REU_Final_Report.pdf">[PDF]</a>/>
        </p>
     </div>
 </div>
@@ -27,7 +27,7 @@ title: Publications
 </strong><br />
           <b>Diyaselis Delgado</b>/>
           Project Report, CERN CDS/>
-          <a href="https://cds.cern.ch/record/2640657/files/On_Demand_Distributed_Computing_Workflow_for_Physics_Analysis_at_the_CMS_Experiment.pdf">[PDF]</a>/>
+          <a href="https://cds.cern.ch/record/2640657/files/On_Demand_Distributed_Computing_Workflow_for_Physics_Analysis_at_the_CMS_Experiment.pdf">[PDF]</a><a href="https://cds.cern.ch/record/2651281?ln=en">[VIDEO]</a>/>
        </p>
     </div>
 </div>
