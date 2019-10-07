@@ -13,7 +13,7 @@ title: Publications
 </strong><br />
           <b>Diyaselis Delgado</b>/>
           Tech Report, Cornell University/>
-          <a "Cornell_REU_Final_Report.pdf">[PDF]</a>/>
+          <a href="Cornell_REU_Final_Report.pdf">[PDF]</a>/>
        </p>
     </div>
 </div>
