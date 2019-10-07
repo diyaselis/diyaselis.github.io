@@ -9,7 +9,7 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Strain gauge measurements of carbon fiber Deefor the CMS Phase-2 Upgrade of the Tracker Forward Pixel Detector
+          <strong>Strain gauge measurements of carbon fiber Dee for the CMS Phase-2 Upgrade of the Tracker Forward Pixel Detector
 </strong><br />
           <b>Diyaselis Delgado</b>
           Tech Report, Cornell University
