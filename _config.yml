@@ -23,7 +23,8 @@ description: Personal Website
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "index"
+  About Me: "index"
+  Talks: "talks"
   Publications: "publications"
   Resume: "DMDL_Resume19.pdf"
 
