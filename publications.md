@@ -17,6 +17,18 @@ title: Publications
        </p>
     </div>
 </div>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>CERN: The Place To Be
+</strong><br />
+          <b>Diyaselis Delgado</b>
+          Article, SPS Observer, Spring Issue 2019
+          <a href="https://www.spsnational.org/the-sps-observer/spring/2019/cern-place-be">[PDF]</a>
+       </p>
+    </div>
+</div>
+
 <h3>
     <a name='2018'></a> 2018
 </h3>
