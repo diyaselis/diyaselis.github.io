@@ -43,13 +43,15 @@ author:
   name: Diyaselis Delgado 
   email: "diyaselis.delgado@upr.edu"
   github: diyaselis    # eg. daattali
+  twitter: diyaselis
+  linkedin: "in/diyaselis"
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
   facebook: false
   email: true
-  twitter: false
+  twitter: true
   google-plus: false
   github: true
   reddit: false
