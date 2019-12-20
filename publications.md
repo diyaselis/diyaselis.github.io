@@ -11,7 +11,6 @@ title: Publications
        <p class="media-heading">
           <strong>Strain gauge measurements of carbon fiber Dee for the CMS Phase-2 Upgrade of the Tracker Forward Pixel Detector
 </strong><br />
-          <b>Diyaselis Delgado</b>
           Tech Report, Cornell University
           <a href="https://raw.githubusercontent.com/diyaselis/diyaselis.github.io/master/Cornell_REU_Final_Report.pdf">[PDF]</a>
        </p>
@@ -22,7 +21,6 @@ title: Publications
        <p class="media-heading">
           <strong>CERN: The Place To Be
 </strong><br />
-          <b>Diyaselis Delgado</b>
           Article, SPS Observer, Spring Issue 2019
           <a href="https://www.spsnational.org/the-sps-observer/spring/2019/cern-place-be">[PDF]</a>
        </p>
@@ -37,7 +35,6 @@ title: Publications
        <p class="media-heading">
           <strong>On-Demand Distributed Computing Workﬂow for Physics Analysis at the CMS Experiment
 </strong><br />
-          <b>Diyaselis Delgado</b>
           Project Report, CERN CDS
           <a href="https://cds.cern.ch/record/2640657/files/On_Demand_Distributed_Computing_Workflow_for_Physics_Analysis_at_the_CMS_Experiment.pdf">[PDF]</a><a href="https://cds.cern.ch/record/2651281?ln=en">[VIDEO]</a>
        </p>
