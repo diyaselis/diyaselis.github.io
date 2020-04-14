@@ -30,6 +30,7 @@ title: Publications
 <h3>
     <a name='2018'></a> 2018
 </h3>
+
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
@@ -37,6 +38,17 @@ title: Publications
 </strong><br />
           Project Report, CERN CDS
           <a href="https://cds.cern.ch/record/2640657/files/On_Demand_Distributed_Computing_Workflow_for_Physics_Analysis_at_the_CMS_Experiment.pdf">[PDF]</a><a href="https://cds.cern.ch/record/2651281?ln=en">[VIDEO]</a>
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>On-Demand Distributed Computing Workﬂow for Physics Analysis at the CMS Experiment
+</strong><br />
+          Undergraduate Thesis, UPRM
+          <a href="https://github.com/diyaselis/diyaselis.github.io/raw/master/UndergradThesis.pdf">[PDF]
        </p>
     </div>
 </div>
