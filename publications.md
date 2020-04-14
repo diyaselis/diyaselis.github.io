@@ -30,6 +30,7 @@ title: Publications
        </p>
     </div>
 </div>
+
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
@@ -66,5 +67,4 @@ title: Publications
        </p>
     </div>
 </div>
-<h3>
 
