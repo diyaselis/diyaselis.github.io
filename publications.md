@@ -4,6 +4,20 @@ title: Publications
 ---
 
 <h3>
+    <a name='2022'></a> 2020
+</h3>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Open data provenance and reproducibility: a case study from publishing CMS open data
+</strong><br />
+          CHEP 2019 Proceedings, Adelaide, Australia
+          <a href="https://raw.githubusercontent.com/diyaselis/diyaselis.github.io/master/chep2019_opendata_cms_proceedings.pdf">[PDF]</a>
+       </p>
+    </div>
+</div>
+
+<h3>
     <a name='2019'></a> 2019
 </h3>
 <div class="media">
