@@ -4,7 +4,21 @@ title: Publications
 ---
 
 <h3>
-    <a name='2022'></a> 2020
+    <a name='2022'></a> 2022
+</h3>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Dark Matter decay to neutrinos (Pending)
+</strong><br />
+          Dark Matter Phenomenology
+       </p>
+    </div>
+</div>
+
+
+<h3>
+    <a name='2020'></a> 2020
 </h3>
 <div class="media">
     <div class="media-body">
@@ -67,4 +81,3 @@ title: Publications
        </p>
     </div>
 </div>
-
