@@ -15,7 +15,8 @@ title: Publications
           <br />
            Accompanying introductory can be found <a href="https://youtu.be/q5jO7sCQl8c">here</a>. 
           <br/> 
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/q5jO7sCQl8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <center>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/q5jO7sCQl8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
        </p>
     </div>
 </div>
