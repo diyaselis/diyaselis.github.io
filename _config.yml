@@ -44,9 +44,10 @@ avatar: "/img/profile3.jpg"
 author:
   name: Diyaselis Delgado
   email: "ddelgado@g.harvard.edu"
-  github: diyaselis    # eg. daattali
+  github: diyaselis  
   twitter: diyaselis
-  linkedin: "in/diyaselis"
+  linkedin: "diyaselis"
+  youtube: "Harvard LPPC"
 
 # Select which links to show in the footer
 footer-links-active:
@@ -62,7 +63,7 @@ footer-links-active:
   stackoverflow: false
   snapchat: false
   instagram: false
-  youtube: false
+  youtube: true
   spotify: false
   telephone: false
 
