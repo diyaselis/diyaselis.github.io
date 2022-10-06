@@ -9,12 +9,12 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Dark Matter decay to neutrinos
-</strong><br />
-          Argüelles, C. A., et. al., “Dark Matter decay to neutrinos”, <a href="https://arxiv.org/abs/2210.01303">arXiv:2210.01303</a>, 2022. <a href="https://arxiv.org/pdf/2210.01303.pdf">[PDF]</a>
-<br />
-          Accompanying introductory can be found <a href="https://youtu.be/q5jO7sCQl8c">here</a>. 
-          {% youtube q5jO7sCQl8c %}
+          <strong>Dark Matter decay to neutrinos</strong>
+          <br />
+           Argüelles, C. A., et. al., “Dark Matter decay to neutrinos”, <a href="https://arxiv.org/abs/2210.01303">arXiv:2210.01303</a>, 2022. <a href="https://arxiv.org/pdf/2210.01303.pdf">[PDF]</a>
+          <br />
+           Accompanying introductory can be found <a href="https://youtu.be/q5jO7sCQl8c">here</a>. 
+          <br/> 
           <iframe width="560" height="315" src="https://www.youtube.com/embed/q5jO7sCQl8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        </p>
     </div>
