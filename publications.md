@@ -14,6 +14,7 @@ title: Publications
           Argüelles, C. A., et. al., “Dark Matter decay to neutrinos”, <a href="https://arxiv.org/abs/2210.01303">arXiv:2210.01303</a>, 2022. <a href="https://arxiv.org/pdf/2210.01303.pdf">[PDF]</a>
 <br />
           Accompanying introductory can be found <a href="https://youtu.be/q5jO7sCQl8c">here</a>. 
+          {% youtube q5jO7sCQl8c %}
        </p>
     </div>
 </div>
