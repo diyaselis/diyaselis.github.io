@@ -9,9 +9,23 @@ title: Awards and Scholarships
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong> European Physical Society Fellowship for the International School of Nuclear Physics
+          </strong><br/>
+          Erice, Sicily, Italy, September 2022
+          <br/>  
+          <strong> Leon Rosenfeld Foundation Scholarship
+          </strong><br/>
+          Niels Bohr Institute, Copenhagen, Denmark, July 2022
+          <br/>
+          <strong> , International Conference on High Energy Physics (ICHEP) Grant
+          </strong><br/>
+          Bologna, July 2022
+          <br/>
           <strong>Jens Aubrey Westengard Scholarship
-</strong><br />
+          </strong><br />
           Harvard University, May 2022
+          
+ 
        </p>
     </div>
 </div>
