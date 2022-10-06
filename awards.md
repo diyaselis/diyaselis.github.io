@@ -17,15 +17,13 @@ title: Awards and Scholarships
           </strong><br/>
           Niels Bohr Institute, Copenhagen, Denmark, July 2022
           <br/>
-          <strong> , International Conference on High Energy Physics (ICHEP) Grant
+          <strong> International Conference on High Energy Physics (ICHEP) Grant
           </strong><br/>
           Bologna, July 2022
           <br/>
           <strong>Jens Aubrey Westengard Scholarship
           </strong><br />
           Harvard University, May 2022
-          
- 
        </p>
     </div>
 </div>
