@@ -26,6 +26,7 @@ navbar-links:
   About Me: "index"
   Talks: "talks"
   Publications: "publications"
+  Outreach: "outreach"
   Awards: "awards"
   CV: "./files/CV_HarvardPhD_22.pdf"
 
