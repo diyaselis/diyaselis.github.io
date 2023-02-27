@@ -3,6 +3,7 @@ layout: page
 title: Outreach and Science Media
 ---
 
+
 <h3>
     <a name='Public Science Talks'></a> Public Science Talks
 </h3>
@@ -12,11 +13,22 @@ title: Outreach and Science Media
        <p class="media-heading">
           <strong> IceCube Master Class (Spanish Edition)
           </strong> <br/>
-          Amigos School (Cambridge, MA) <br/>
+          Los Amigos Middle School (Cambridge, MA) <br/>
        </p>
     </div>
 </div>
 
+<h3>
+    <a name='Harvard LPPC YouTube Channel'></a> Harvard LPPC YouTube Channel
+</h3>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+           <iframe src="https://www.youtube.com/@harvardlppc/featured" width="150" height="150"></iframe>
+       </p>
+    </div>
+</div>
 
 <h3>
     <a name='Interviews'></a> Interviews
