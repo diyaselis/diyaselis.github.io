@@ -60,7 +60,7 @@ title: Outreach and Science Media
        <strong> Diyaselis Delgado López: una boricua que estudia el universo desde Harvard
        </strong> - Reportaje en El Nuevo Día por Adriana Díaz Tirado <br/>
        <p class="media-heading">
-       <a href="https://www.elnuevodia.com/ciencia-ambiente/espacio-astronomia/notas/diyaselis-delgado-lopez-una-boricua-que-estudia-el-universo-desde-harvard/"><img src="https://www.elnuevodia.com/resizer/t80s98mrvSuuwRfa3qOmUEPaI20=/1658x0/filters:quality(75):format(jpeg):focal(2450x2445:2460x2435)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V5LMNJEG4RGZJNSD3C2XFWLQE4.jpg" alt="El Nuevo Dia" style="width:256px;height:200px;"></a>
+       <a href="https://www.elnuevodia.com/ciencia-ambiente/espacio-astronomia/notas/diyaselis-delgado-lopez-una-boricua-que-estudia-el-universo-desde-harvard/"><img src="https://www.elnuevodia.com/resizer/t80s98mrvSuuwRfa3qOmUEPaI20=/1658x0/filters:quality(75):format(jpeg):focal(2450x2445:2460x2435)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V5LMNJEG4RGZJNSD3C2XFWLQE4.jpg" alt="El Nuevo Dia" style="width:256px;height:208px;"></a>
        </p>
     </div>
 </div>
