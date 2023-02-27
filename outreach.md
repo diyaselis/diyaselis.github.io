@@ -25,7 +25,7 @@ title: Outreach and Science Media
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-           <a href="https://www.youtube.com/@harvardlppc/featured"><img src="https://yt3.googleusercontent.com/V_85wPeO-D83QWFdh8_a-oMS1IjaHp1ICery6nczttEVwWPUBOqpsHb6L_yDyLidz4f_16SgWtQ=s900-c-k-c0x00ffffff-no-rj" alt="Harvard LPPC" style="width:128px;height:128px;"></a>
+           <a href="https://www.youtube.com/@harvardlppc/featured"><img src="https://yt3.googleusercontent.com/V_85wPeO-D83QWFdh8_a-oMS1IjaHp1ICery6nczttEVwWPUBOqpsHb6L_yDyLidz4f_16SgWtQ=s900-c-k-c0x00ffffff-no-rj" alt="Harvard LPPC" style="width:256px;height:128px;"></a>
        </p>
     </div>
 </div>
