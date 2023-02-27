@@ -48,8 +48,8 @@ title: Outreach and Science Media
           <strong> Curiosidad Cientifica Podcast
           </strong> - Agustin Valenzuela <br/>
           <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1EpIAN82Z64iDxrHYyoFDy?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-       <br/>
-           <iframe width="560" height="315" src="https://www.youtube.com/embed/liDG3VMIylY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+       </p>
+       <p><iframe width="560" height="315" src="https://www.youtube.com/embed/liDG3VMIylY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
        </p>
        <br/>
        <p class="media-heading">
@@ -61,7 +61,6 @@ title: Outreach and Science Media
        <p class="media-heading">
        <strong> Diyaselis Delgado López: una boricua que estudia el universo desde Harvard
        </strong> - Reportaje en El Nuevo Día por Adriana Díaz Tirado <br/>
-       <p class="media-heading">
        <a href="https://www.elnuevodia.com/ciencia-ambiente/espacio-astronomia/notas/diyaselis-delgado-lopez-una-boricua-que-estudia-el-universo-desde-harvard/"><img src="https://www.elnuevodia.com/resizer/t80s98mrvSuuwRfa3qOmUEPaI20=/1658x0/filters:quality(75):format(jpeg):focal(2450x2445:2460x2435)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V5LMNJEG4RGZJNSD3C2XFWLQE4.jpg" alt="El Nuevo Dia" style="width:272px;height:192px;"></a>
        </p>
     </div>
