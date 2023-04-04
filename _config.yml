@@ -48,6 +48,7 @@ author:
   github: diyaselis  
   twitter: diyaselis
   linkedin: "diyaselis"
+  instagram: 'harvardphysics'
   youtube: "channel/UCR3MTT35pF67ydquXBweD0Q"
 
 # Select which links to show in the footer
@@ -63,7 +64,7 @@ footer-links-active:
   xing: false
   stackoverflow: false
   snapchat: false
-  instagram: false
+  instagram: true
   youtube: true
   spotify: false
   telephone: false
