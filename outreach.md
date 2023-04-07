@@ -11,15 +11,13 @@ title: Outreach and Science Media
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-        <ul>
-          <li> <strong> IceCube Master Class (English Edition) </strong> <br/>
+        <ul><li> <strong> IceCube Master Class (English Edition) </strong> <br/>
                <p> Cambridge Ringe and Boston Latin School (Cambridge, MA) <br/> </p> 
-          </li>
+        </li></ul>
               
-          <li><strong> IceCube Master Class (Spanish Edition) </strong> <br/>
-              <p> Los Amigos Middle School (Cambridge, MA) <br/></p>
-            </li>
-        </ul>
+        <ul><li> <strong> IceCube Master Class (Spanish Edition) </strong> <br/>
+                <p> Los Amigos Middle School (Cambridge, MA) <br/></p>
+        </li></ul>
        </p>
     </div>
 </div>
