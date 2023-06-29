@@ -2,6 +2,18 @@
 layout: page
 title: Awards and Scholarships
 ---
+<h3>
+    <a name='2023'></a> 2023
+</h3>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong> William F. Milton Fund
+          </strong><br/>
+            Cambridge, MA, January - May 2023
+          <br/></p>
+    </div>
+</div>
 
 <h3>
     <a name='2022'></a> 2022
