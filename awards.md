@@ -2,6 +2,20 @@
 layout: page
 title: Awards and Scholarships
 ---
+
+<h3>
+    <a name='2024'></a> 2024
+</h3>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong> White Prize for Excellence in Teaching
+          </strong><br/>
+            Cambridge, MA, May 2024
+          <br/></p>
+    </div>
+</div>
+
 <h3>
     <a name='2023'></a> 2023
 </h3>
