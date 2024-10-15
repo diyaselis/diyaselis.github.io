@@ -25,7 +25,7 @@ title: Research
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-           <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficecube.wisc.edu%2Fscience%2Ficecube%2F&psig=AOvVaw0vDK8AzLSUAg_9S6a9Dufy&ust=1729097394147000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDri_PrkIkDFQAAAAAdAAAAABAE" alt="IceCube" style="width:300px;height:800px;">
+           <img src="https://res.cloudinary.com/icecube/images/q_auto/v1653683283/gal_MnOrenewal_icecube_detector_9996b6adb/gal_MnOrenewal_icecube_detector_9996b6adb.jpg?_i=AA" alt="IceCube" style="width:300px;height:800px;">
        </p>
     </div>
 </div>
@@ -45,7 +45,7 @@ title: Research
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-           <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Findico.fnal.gov%2Fevent%2F63406%2Fcontributions%2F297967%2Fattachments%2F181754%2F249338%2FTAMBOTalk_RobertMihaiAmarinei.pdf&psig=AOvVaw3_fwBb4JIrOuTgyqtS8Z-m&ust=1729097268613000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCPvbXrkIkDFQAAAAAdAAAAABAS" alt="TAMBO" style="width:800px;height:300px;">
+           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg87Tcq52jsCqYMJjAjnVT8ABUOVOEdUv9TQ&s" alt="TAMBO" style="width:800px;height:300px;">
        </p>
     </div>
 </div>
