@@ -25,7 +25,7 @@ title: Research
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-           <img src="https://res.cloudinary.com/icecube/images/q_auto/v1653683283/gal_MnOrenewal_icecube_detector_9996b6adb/gal_MnOrenewal_icecube_detector_9996b6adb.jpg?_i=AA" alt="IceCube" style="width:650px;height:700px;">
+           <img src="https://res.cloudinary.com/icecube/images/q_auto/v1653683283/gal_MnOrenewal_icecube_detector_9996b6adb/gal_MnOrenewal_icecube_detector_9996b6adb.jpg?_i=AA" alt="IceCube" style="width:700px;height:700px;">
        </p>
     </div>
 </div>
@@ -41,7 +41,7 @@ title: Research
 <p> 
      TAMBO (Tau Air-Shower Mountain-Based Observatory) is a proposed water-Cherenkov detector set on a cliff-edge in the high Peruvian Andes. Utilizing the unique geometry of the Colca valley, TAMBO is situated to produce a high-purity sample of 1–100 PeV astrophysical tau neutrino events, providing a novel aperture into the under-explored component of the existing high-energy neutrino spectrum.
 </p> 
-https://cds.cern.ch/record/2806792/files/TAMBO_Figure.png
+
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
