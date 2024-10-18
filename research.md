@@ -6,9 +6,9 @@ title: Research
 
 <h3>
     <a name='IceCube'></a> IceCube<br/> 
-    <span class="badge badge-primary">Analysis</span>
-    <span class="badge badge-primary">Software</span>
-    <span class="badge badge-primary">Hardware</span>
+    <a href="#" class="badge badge-pill badge-primary">Analysis</a>
+    <a href="#" class="badge badge-pill badge-primary">Software</a>
+    <a href="#" class="badge badge-pill badge-primary">Hardware</a>
 </h3>
 
 <p> 
@@ -35,7 +35,7 @@ title: Research
 
 <h3>
     <a name='TAMBO'></a> TAMBO<br/> 
-    <span class="badge badge-primary">Hardware</span>
+    <a href="#" class="badge badge-pill badge-primary">Hardware</a>
 </h3>
 
 <p> 
