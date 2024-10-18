@@ -25,7 +25,7 @@ title: Research
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-           <img src="https://res.cloudinary.com/icecube/images/q_auto/v1653683283/gal_MnOrenewal_icecube_detector_9996b6adb/gal_MnOrenewal_icecube_detector_9996b6adb.jpg?_i=AA" alt="IceCube" style="width:700px;height:700px;">
+           <img src="https://res.cloudinary.com/icecube/images/q_auto/v1653683283/gal_MnOrenewal_icecube_detector_9996b6adb/gal_MnOrenewal_icecube_detector_9996b6adb.jpg?_i=AA" alt="IceCube" style="width:700px;height:600px;">
        </p>
     </div>
 </div>
